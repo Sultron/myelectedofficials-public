@@ -66,7 +66,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 		includeOffices: true,
 		levels: ['administrativeArea1', 'locality'],
 		roles: ['headOfGovernment', 'legislatorUpperBody'],
-		accessToken: '***REMOVED***'
+		accessToken: 'AIzaSyA1wn5560_qYtVLlD2S1e9eDscjjn8Qrmw'
 	};
 
 	const officials = await fetchOfficials(civicInfoParams);

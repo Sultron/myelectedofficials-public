@@ -1,3 +1,7 @@
+# Requriments for the project
+
+You need to enable Vertex AI API and request a service account key from the Google Cloud Console. You can find the instructions [here](https://cloud.google.com/vertex-ai/docs/start/using-client-libraries#before-you-begin).
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
